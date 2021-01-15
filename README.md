@@ -1,5 +1,6 @@
 # Pong
- My recreation of Pong. Currently only 2 Player control and no AI.
+ My recreation of Pong. Currently only 2 Player control and no AI. 
+ Made in Unity as a self-taught introduction.
  
 ## Controls
  Player 1 (Left) W and D keys
