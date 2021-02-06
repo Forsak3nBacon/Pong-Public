@@ -12,6 +12,9 @@
   
  ### V0.3
   Sounds, basic UI - Main Menu and Scoring/Win Messages, and fixed random kickoff and delay - https://github.com/Forsak3nBacon/Pong-Public/blob/main/Build%20Versions/Development/Pong-v0.3/Pong-v0.3.zip
+  
+ ### V1.0
+  AI, Difficulty, Two Player and One Player options, and Improved Main Menu screen - https://github.com/Forsak3nBacon/Pong-Public/blob/main/Build%20Versions/Release/v1.0-Exe/Pong-v1.0.zip
 
 ## CRT Style Shader
  This amazing code is not mine. It was downloaded from https://github.com/luka712/Unity-Effects/tree/master/CRT
